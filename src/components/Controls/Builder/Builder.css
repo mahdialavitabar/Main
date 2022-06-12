@@ -1,0 +1,23 @@
+.builder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 12px 0;
+
+}
+.builder button {
+    display: block;
+    font: inherit;
+    padding: 5px;
+    margin: 0 12px;
+    width: 80px;
+    background-color: rgb(223, 0, 11);
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    outline: none;
+}
+.builder div {
+    color: rgb(255, 17, 0);
+    margin: 0 12px;
+}
